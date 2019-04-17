@@ -3,7 +3,7 @@ This repo holds scripts for parsing the pcap output files of our ns3 sims
 
 ## Requirements
 
-It is recommended to use this in a virtual environment if you want to contribute.
+It is recommended to use this in a [virtual environment](https://docs.python.org/3/library/venv.html) if you want to contribute.
 
 ```bash
 sudo dnf install libpcap-devel # fedora
