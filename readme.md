@@ -8,6 +8,7 @@ It is recommended to use this in a [virtual environment](https://docs.python.org
 ```bash
 sudo dnf install libpcap-devel # fedora
 sudo apt install libpcap-dev # Ubuntu
+sudo apt install tshark #Ubuntu
 
 ```
 
